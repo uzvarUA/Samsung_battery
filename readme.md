@@ -14,16 +14,16 @@ _______________
   level: 92
   scale: 100
 #  voltage: 4188
-  temperature: 310
-  technology: Li-ion
-  batteryMiscEvent: 0
-  batteryCurrentEvent: 0
-  mSecPlugTypeSummary: 0
-  LED Charging: true
-  LED Low Battery: true
-  current now: -651000
-  charge counter: 2572320
-  Adaptive Fast Charging Settings: true
+ ### temperature: 310
+ > technology: Li-ion
+ > batteryMiscEvent: 0
+ >> batteryCurrentEvent: 0
+ >>> mSecPlugTypeSummary: 0
+ >>>> LED Charging: true
+>>>>  LED Low Battery: true
+> >> current now: -651000
+> >>> charge counter: 2572320
+> >>> Adaptive Fast Charging Settings: true
   Super Fast Charging Settings: false
 FEATURE_WIRELESS_FAST_CHARGER_CONTROL: false
   mWasUsedWirelessFastChargerPreviously: false
