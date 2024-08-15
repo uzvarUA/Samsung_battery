@@ -1,7 +1,8 @@
-Current Battery Service state:
-  AC powered: false
-  USB powered: false
-  Wireless powered: false
+# Current Battery Service state:
+
+- [x]  AC powered: false
+- [ ]  USB powered: false
+- [ ] Wireless powered: false
   Dock powered: false
   Max charging current: 0
   Max charging voltage: 0
