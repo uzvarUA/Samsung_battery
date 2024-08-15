@@ -3,16 +3,17 @@
 - [x]  AC powered: false
 - [ ]  USB powered: false
 - [ ] Wireless powered: false
-  Dock powered: false
-  Max charging current: 0
-  Max charging voltage: 0
-  Charge counter: 2572320
+- [ ] Dock powered: false
+- Max charging current: 0
+- Max charging voltage: 0
+# Charge counter: 2572320
+_______________
   status: 3
-  health: 2
+ # health: 2
   present: true
   level: 92
   scale: 100
-  voltage: 4188
+#  voltage: 4188
   temperature: 310
   technology: Li-ion
   batteryMiscEvent: 0
